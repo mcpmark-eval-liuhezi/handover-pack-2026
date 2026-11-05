@@ -10,7 +10,7 @@ This note records the public profile details captured as part of the account han
 | Display name | Hezi Liu |
 | Numeric user id | 28861483 |
 | Public repository count | 4 |
-| Follower count | 5 |
+| Follower count | 6 |
 
 ## Public repositories on the account
 
